@@ -1,3 +1,3 @@
 # ItsTimeToCode
 Projet de C 
-hh
+printf("pas ouf github")
